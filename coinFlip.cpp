@@ -3,7 +3,6 @@
 #include <ctime>
 
 int main() {
-  
   // Create a number that's 0 or 1
   
   srand (time(NULL));
@@ -22,5 +21,4 @@ int main() {
     std::cout << "Tails\n";
   
   }
-  
 }

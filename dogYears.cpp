@@ -13,4 +13,3 @@ int main() {
 
   std::cout << "Age of dog in dog years is: " << dog_age << ", in human years this equals: " << human_years << ".\n";
 }
-
