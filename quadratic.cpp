@@ -22,4 +22,5 @@ int main() {
 
   std::cout << "Root 1 is " << root1;
   std::cout << "\nRoot 2 is " << root2 << "\n";
+  
 }

@@ -1,7 +1,6 @@
 #include <iostream>
 
 int main() {
-  
   int dog_age = 8;
   int early_years;
   int later_years;
